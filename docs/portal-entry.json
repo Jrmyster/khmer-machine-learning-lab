@@ -1,0 +1,21 @@
+{
+  "id": "khmer-machine-learning-lab",
+  "nameEn": "Khmer Machine Learning Lab",
+  "nameKm": "មន្ទីរពិសោធន៍ការរៀនរបស់ម៉ាស៊ីនខ្មែរ",
+  "descriptionEn": "Explore machine learning at four depths, from first principles to distributed systems, with interactive labs, formulas and code examples.",
+  "descriptionKm": "ស្វែងយល់ពីការរៀនរបស់ម៉ាស៊ីនបួនកម្រិត ពីមូលដ្ឋានដល់ប្រព័ន្ធចែកចាយ ជាមួយលំហាត់អន្តរកម្ម រូបមន្ត និងឧទាហរណ៍កូដ។",
+  "category": "STEM & Computer Engineering",
+  "icon": "Network",
+  "url": null,
+  "status": "awaiting-deployment",
+  "tags": [
+    "machine learning",
+    "AI",
+    "regression",
+    "attention",
+    "PyTorch",
+    "distributed training",
+    "ការរៀនរបស់ម៉ាស៊ីន"
+  ],
+  "isOfflineReady": false
+}
